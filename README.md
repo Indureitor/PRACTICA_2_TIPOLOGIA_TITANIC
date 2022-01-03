@@ -13,11 +13,15 @@ ESTRUCTURA PRACTICA:
     ARCHIVO PDF DESARROLLO DE LA PRACTICA.
 
 * DATA ORIGINAL: (archivos originales competicion kaggle).
+
     gender_baseline.csv
+    
     titanic_test.csv
+   
     titanic_train.csv
  
  * DATA_FINAL
+ 
     titanic_processed.csv
  
 
